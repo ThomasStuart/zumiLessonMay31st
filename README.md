@@ -5,7 +5,7 @@ Last week, we integrated a "mulit-route" system that allowed us to enter multipl
 
 Today
 -------
-- [ ]  Take **interactive** Quiz.   (30 min) <br>
+- [ ]  Take **interactive** Quiz.   (45 min) <br>
 - [ ]  Lesson on  "while loops" and "validating user input" (30 min) <br>
 - [ ]  Incorporating sound.         Have Zumi honk at every corner. <br>
 - [ ]  Incorporating Zumi screen.   Have Zumi start sad while at not at a destination -> happy once arrived. Or display the route on Zumi's screen.  <br>
