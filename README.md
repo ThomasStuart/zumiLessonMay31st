@@ -8,10 +8,9 @@ Today
 - [X]  Take **interactive** test.   (45 min - 60 min ) <br>
 - [X]  Lesson on displaying a route on Zumi's screen (30 min) <br>
 - [X]  Incorporating sound.         Have Zumi honk at every corner. <br>
-- [X]  add above to ZumiProject instead of seperate cells  <br>
-route on Zumi's screen.  <br>
+- [X]  Merge display route and sound into ZumiProject (instead of seperate cells to simplify feature)  <br>
 - [ ]  Incorporating Zumi camera.   Have Zumi take a picture at every corner.  <br>
-- [ ]  add more detailed info to the route details being displayed in output to the console (reest of class)[I] <br>
+- [ ]  Add more detailed info to the route details being displayed in output to the console (rest of class)[I] <br>
 
 
 [I]
